@@ -1,1 +1,2 @@
-Hi! My name i Atharva Garud
+Hi! My name is Atharva Garud.
+This is a modification to the pre-existing file.
